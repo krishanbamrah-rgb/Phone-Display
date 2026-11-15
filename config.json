@@ -1,0 +1,14 @@
+{
+  "mode": "single",
+  "image": "iPhone6_1.png",
+  "interval": 10,
+  "version": 1,
+  "images": [
+    "iPhone6_1.png",
+    "iPhone6_2.png",
+    "iPhone6_3.png",
+    "iPhone6_4.png",
+    "iPhone6_5.png",
+    "iPhone6_6.png"
+  ]
+}
