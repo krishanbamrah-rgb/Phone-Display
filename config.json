@@ -1,14 +1,14 @@
 {
   "mode": "single",
-  "image": "iPhone6_4.png",
+  "image": "Come-On-In.png",
   "interval": 10,
-  "version": 1,
+  "version": 2,
   "images": [
-    "iPhone6_1.png",
-    "iPhone6_2.png",
-    "iPhone6_3.png",
-    "iPhone6_4.png",
-    "iPhone6_5.png",
-    "iPhone6_6.png"
+    "Come-On-In.png",
+    "Reduce-Interruptions.png",
+    "Do-Not-Disturb.png",
+    "Gaming.png",
+    "Sleeping.png",
+    "Working.png"
   ]
 }
